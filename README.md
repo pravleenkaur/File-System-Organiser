@@ -20,7 +20,9 @@ In this we are going to show the files and folders by using a particular format 
 
 In this we are going to organise the folders with their respective file extensions as media, document, archives and app.
 
-3- help.js//
+3- help.js
+
 This is for helping purpose.
+
 
 ->After this make another js file and import the help,tree and Organise into this FO.
