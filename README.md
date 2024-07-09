@@ -1,7 +1,7 @@
 # File-System-Organiser
 a global command line application using Node.js. It organizes all your files from from a folder into different section so that you need not to do it manually.
 
-->Purpose of this project are:
+->Purpose of this project:
 
 > Output of this project is to handling the large size folder.
 
@@ -12,10 +12,12 @@ a global command line application using Node.js. It organizes all your files fro
 
 ->First make the js file for help,Organise and tree.
 
-1- tree.js//
+1- tree.js
+
 In this we are going to show the files and folders by using a particular format as tree.
 
-2- organise.js//
+2- organise.js
+
 In this we are going to organise the folders with their respective file extensions as media, document, archives and app.
 
 3- help.js//
